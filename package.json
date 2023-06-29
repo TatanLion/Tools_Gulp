@@ -1,0 +1,27 @@
+{
+  "name": "herramientas_npm",
+  "version": "1.0.0",
+  "description": "Herramientas NPM que sirvan para comprimir diferentes tipos de archivos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "NPM",
+    "JS",
+    "GULP"
+  ],
+  "author": "Jonathan Amaya",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-webp": "^4.0.1",
+    "imagemin-gifsicle": "^7.0.0",
+    "lottie-minify": "^0.1.11",
+    "lottie-web": "^5.12.2"
+  }
+}
